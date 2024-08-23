@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Moderustic:wght@300..800&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 18px;
+}
+
+body {
+  margin: 0px;
+  font-family: Moderustic, sans-serif; ;
+}
+
+a {
+  text-decoration: none;
+}
